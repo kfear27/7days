@@ -1,0 +1,4 @@
+<configs>
+  <!-- Nailgun -->
+  <set xpath="items/item[@name='meleeToolRepairT3Nailgun']/property[@class='Action1']/property[@name='Delay']/@value">0.25</set>
+</configs>
